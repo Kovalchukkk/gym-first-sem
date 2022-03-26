@@ -13,7 +13,7 @@ private:
 	
 	string GetFileName() override
 	{
-		return "D:\\Навчальна практика 2 курс\\TASK_1_OOP\\Debug\\visitors.txt";
+		return "D:\\Навчальна практика 2 курс\\gym-first-sem\\TASK_1_OOP\\Debug\\visitors.txt";
 	}
 
 public:

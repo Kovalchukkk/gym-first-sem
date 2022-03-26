@@ -17,7 +17,7 @@ protected:
 
 	string GetFileName() override
 	{
-		return "D:\\Навчальна практика 2 курс\\TASK_1_OOP\\Debug\\trainers.txt";
+		return "D:\\Навчальна практика 2 курс\\gym-first-sem\\TASK_1_OOP\\Debug\\trainers.txt";
 	}
 
 public:
